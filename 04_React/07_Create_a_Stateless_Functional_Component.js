@@ -20,3 +20,12 @@ The code editor has a function called MyComponent. Complete this function so it 
 Note: The text is considered a child of the div element, so you will not be able to use a self-closing tag.
 */
 
+const MyComponent = function() {
+  // change code below this line
+  return (
+    <div>Hello React js</div>
+  )
+
+
+  // change code above this line
+}
